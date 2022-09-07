@@ -1,0 +1,81 @@
+{
+    "name": "Árbol Proyecto Documental",
+    "empresa": "Inmobiliaria Socovesa Sur",
+    "version": "1.0.0",
+    "proyectos": [
+        {
+            "name": "Proyecto 1",
+            "ceGe": "TY34",
+            "type": "Extensión",
+            "ciudad": "Puerto Montt",
+            "SubgerenteInmobiliario": "Juan José Astudillo",
+            "SegmentoMercado": "Entre 3.000 a 4.500 UF",
+            "documents": [
+                {
+                    "level": 1,
+                    "nameLevel": "Gestión Territorial",
+                    "GerenciasResponsables": [
+                        {
+                            "gerencia": "Legal y Sostenibilidad"
+                        },
+                        {
+                            "gerencia": "Gestión"
+                        }
+                    ],
+                    "documents": [
+                        {
+                            "level": 2,
+                            "nameLevel": "Antecedentes Previos",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "Títulos Anteriores",
+                                    "grupoEdición": [
+                                        { "name": "Abogado Inmobiliario" }
+                                    ],
+                                    "grupoVisualización": [
+                                        { "name": "Abogado Inmobiliario" },
+                                        { "name": "Analista Gestión Activos" },
+                                        { "name": "Subgerente Segmento" }
+                                    ],
+                                    "files": [
+                                        {
+                                            "name": "escritura-01/01/2021.pdf",
+                                            "valid": false,
+                                            "keywords": [
+                                                "escritura",
+                                                "Panitao",
+                                                "Puerto Montt"
+                                            ]
+                                        },
+                                        {
+                                            "name": "escritura-01/01/2022.pdf",
+                                            "valid": true,
+                                            "keywords": [
+                                                "escritura",
+                                                "Panitao",
+                                                "Puerto Montt"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "Varios",
+                                    "grupoEdición": [
+                                        { "name": "Abogado Inmobiliario" }
+                                    ],
+                                    "grupoVisualización": [
+                                        { "name": "Abogado Inmobiliario" },
+                                        { "name": "Analista Gestión Activos" },
+                                        { "name": "Subgerente Segmento" }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
