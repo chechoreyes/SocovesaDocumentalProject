@@ -128,7 +128,7 @@
                         },
                         {
                             "level": 2,
-                            "nameLevel": "03_Contribuciones",
+                            "nameLevel": "04_Contribuciones",
                             "document": [
                                 {
                                     "level": 3,
@@ -137,16 +137,20 @@
                                 {
                                     "level": 3,
                                     "name": "02_Catastrales"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "03_Certificados_Deuda"
                                 }
                             ]
                         },
                         {
                             "level": 2,
-                            "nameLevel": "04_Evaluaciones_Previas",
+                            "nameLevel": "05_Evaluaciones_Previas",
                             "document": [
                                 {
                                     "level": 3,
-                                    "name": "01_CosteoTerrenos"
+                                    "name": "01_Costeo_Terrenos"
                                 }
                             ]
                         }
@@ -459,40 +463,6 @@
                                     "name": "04_Especificaciones_Tecnicas"
                                 }
                             ]
-                        },
-                        {
-                            "level": 2,
-                            "nameLevel": "06_Arquitectura_AS_BUILT",
-                            "document": [
-                                {
-                                    "level": 3,
-                                    "name": "01_Masterplan"
-                                },
-                                {
-                                    "level": 3,
-                                    "name": "02_Cabida"
-                                },
-                                {
-                                    "level": 3,
-                                    "name": "03_Entrega_1_Arq_General"
-                                },
-                                {
-                                    "level": 3,
-                                    "name": "04_Entrega_1_Arq_Detalle"
-                                },
-                                {
-                                    "level": 3,
-                                    "name": "05_Especificaciones_Tecnicas"
-                                },
-                                {
-                                    "level": 3,
-                                    "name": "06_Proyecto_ODI"
-                                },
-                                {
-                                    "level": 3,
-                                    "name": "07_Proyecto_Paisajismo"
-                                }
-                            ]
                         }
                     ]
                 },
@@ -619,7 +589,7 @@
                 {
                     "level": 1,
                     "nameLevel": "06_Especialidades_Urbanizacion",
-                    "document": [
+                    "documents": [
                         {
                             "level": 2,
                             "nameLevel": "01_Proyecto_Pavimentacion",
@@ -695,6 +665,594 @@
                                 {
                                     "level": 3,
                                     "name": "06_Certificados"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "04_Proyecto_Alumbrado_Publico",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto_ALP"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "02_Declaracion"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "03_Certificados"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "04_Proyecto_Distribucion"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "05_Declaracion"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "06_Certificados"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "05_Proyecto_Gas",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto_Gas"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "02_Declaracion"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "03_Certificados"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "06_Proyecto_Telecomunicaciones",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto_Telecomunicaciones"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "02_Declaracion"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "03_Proyecto_Perfeccionado"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "07_Proyecto_Paisajismo_Ilumininacion",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "08_Proyecto_Riego",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "09_Proyecto_Transito",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto_Transito"
+                                },
+                                {
+                                    "level":3,
+                                    "name":"02_Aprobacion"
+                                },
+                                {
+                                    "level":3,
+                                    "name":"03_Certificados"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 1,
+                    "nameLevel": "07_Especialidades_Edificacion",
+                    "documents": [
+                        {
+                            "level": 2,
+                            "nameLevel": "01_Proyecto_Calculo",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto_Preliminar_DOM"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "02_Proyecto"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "02_Proyecto_Agua_Potable_Sanitaria",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto_AP-AS"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "02_Aprobacion"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "03_Certificados"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "03_Proyecto_Electricidad",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto_Electrico"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "02_Declaracion"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "03_Certificados"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "04_Proyecto_Corrientes_Debiles",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "05_Proyecto_Gas",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto_Gas"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "02_Declaracion"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "03_Certificados"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "06_Proyecto_Telecomunicaciones",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto_Telecomunicaciones"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "02_Declaracion"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "03_Proyecto_Perfeccionado"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "07_Proyecto_Calefaccion_Ventilacion",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "08_Proyecto_Ascensores",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "09_Proyecto_Sala_de_Basura",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "02_Resolucion"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "10_Proyecto_Piscina",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "02_Resolucion"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "11_Proyecto_Señaletica",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "12_Proyecto_Seguridad",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "13_Proyecto_PDA",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "14_Proyecto_Lavanderia",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "15_Proyecto_Impermeabilizacion",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "16_Proyecto_Paneles_Solares",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "17_Proyecto_Socializados",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "18_Proyecto_Excavaciones",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Proyecto"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 1,
+                    "nameLevel": "08_Obras_Construccion",
+                    "documents": [
+                        {
+                            "level": 2,
+                            "nameLevel": "01_Costos",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Estados_de_Pago"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "02_Aprobacion_Estados_de_Pago"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "03_RP_IGEO"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "04_Presupuesto_Obra_Modificado_POM"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "05_Adicionales_yo_Complementarias"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "02_Plazos",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Programa_Obra_LPSoLEAN"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "02_Programa_Project"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "03_Programa_Adquisiciones"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "04_Programa_Liberaciones"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "03_Seguridad",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_IPA"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "02_Programa_Actividades"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "03_Informe_Medio_Ambiental"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "04_Calidad_en_Obra",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Plan_de_Inspeccion"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "02_Certificados_Materiales"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "03_Ensayos"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "05_Oficina_Tecnica",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Organigrama_de_Obra"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "02_Certificados_RM_EDRM_PROG"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "03_Actas_Entrega_Inmobiliaria"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "04_Minuta_Reunion_de_Obra"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "05_Informe_Fotografico"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "06_RDI"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "06_Expediente_RM_Edificacion",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Carpeta_de_Ingreso"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "02_Actas_de_Observaciones"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "03_Carpeta_Final"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "06_Expediente_RM_Urbanizacion",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Carpeta_de_Ingreso"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "02_Actas_de_Observaciones"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "03_Carpeta_Final"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 1,
+                    "nameLevel": "09_Postventa",
+                    "documents": [
+                        {
+                            "level": 2,
+                            "nameLevel": "01_Arquitectura_AS_BUILT",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Masterplan"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "02_Cabida"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "03_Entrega_1_Arq_General"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "04_Entrega_1_Arq_Detalle"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "05_Especificaciones_Tecnicas"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "06_Proyecto_ODI"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "07_Proyecto_Paisajismo"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "02_Especialidades_Edificacion",
+                            "document": [
+                                { "level": 3, "name": "01_Proyecto_Calculo" },
+                                {
+                                    "level": 3,
+                                    "name": "02_Proyecto_Agua_Potable_Sanitaria"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "03_Proyecto_Electricidad"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "04_Proyecto_Corrientes_Debiles"
+                                },
+                                { "level": 3, "name": "05_Proyecto_Gas" },
+                                {
+                                    "level": 3,
+                                    "name": "06_Proyecto_Telecomunicaciones"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "07_Proyecto_Calefaccion_Ventilacion"
+                                }
+                            ]
+                        },
+                        {
+                            "level": 2,
+                            "nameLevel": "03_Certificacion",
+                            "document": [
+                                {
+                                    "level": 3,
+                                    "name": "01_Requerimiento_Modificacion"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "02_Requerimiento_Informacion"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "03_No_Conformidades"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "04_R0_R1_RF"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "05_OCE"
+                                },
+                                {
+                                    "level": 3,
+                                    "name": "06_Sellos_de_Calidad"
                                 }
                             ]
                         }
